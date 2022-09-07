@@ -1,0 +1,25 @@
+{
+  "name": "happy_credit_assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server":"nodemon/src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prince-git-user/Happy_credit_assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prince-git-user/Happy_credit_assignment/issues"
+  },
+  "homepage": "https://github.com/prince-git-user/Happy_credit_assignment#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.5.4"
+  }
+}
